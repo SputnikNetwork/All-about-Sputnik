@@ -93,18 +93,18 @@ Q1-2022 <br />
 
 Q2-2022 <br />
 
-Launch the First Sputnik Game Championship
-Create a platform for NFTs pawnshop & auction
-Add more Cosmos & Solana tokens to p2p-exchange in TG, Discord, App and Web-page
+- Launch the First Sputnik Game Championship
+- Create a platform for NFTs pawnshop & auction
+- Add more Cosmos & Solana tokens to p2p-exchange in TG, Discord, App and Web-page
 
 Q3-2022 <br />
 
-Launch the second test-net
-Integration with DEX’s of the Cosmos and Solana Ecosystems
-Add AI-bots for easy Web2 <-> Web3
+- Launch the second test-net
+- Integration with DEX’s of the Cosmos and Solana Ecosystems
+- Add AI-bots for easy Web2 <-> Web3
 
 Q4-2022 <br />
 
-Create the bridge with Mina Protocol
-Create the bridge with Solana Ecosystem
-Launch the second main-net of Sputnik Network
+- Create the bridge with Mina Protocol
+- Create the bridge with Solana Ecosystem
+- Launch the second main-net of Sputnik Network
