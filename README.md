@@ -1,5 +1,7 @@
 # All-about-Sputnik
-What is Sputnik Network? <br />
+What is the Sputnik Network? <br />
+
+The easiest way to know more about the Sputnik Network is to watch our (presentation!](https://docs.google.com/presentation/d/1zA34xNr9tf0ofleswpQmyui6czRyZsaU_nHEYpQo41A/edit?usp=sharing) <br />
 
 For now, The Sputnik Network is an ecosystem of services that are connected Web2 and Web3. <br />
 We alraedy have Sputnik Network Bot, that works in Twitter and Telegram. <br />
