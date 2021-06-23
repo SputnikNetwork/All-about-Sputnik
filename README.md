@@ -6,7 +6,7 @@ We alraedy have Sputnik Network Bot, that works in Twitter and Telegram. <br />
 Any user of Twitter can login with Twitter-account to https://sputnik.exchange and topup balance of $ATOM, $KAVA, $IOV, $SCRT, $HARD or $USDX <br />
 Users of Twitter with available balnce can send crypto-tips to any other Twitter-user, even if this user didn't create an account. <br />
 To send crypto-tip, all you need is make a comment, write anything you want, or write nothing, and add: <br />
-"<@username> <amount><crypto> #sputnik"  <br />
+"<@username> <amount> <crypto> #sputnik"  <br />
 > For example: @ponimajushij 0.567atom #sputnik
 After comment will be published, Sputnik Network Bot will see it in Twitter, and it will transfer from your balance 0.567 $ATOM to the balance of @ponimajushij <br />
 Also, users can send multy-crypto-tips in one comment! <br />
