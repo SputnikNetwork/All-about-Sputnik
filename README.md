@@ -68,15 +68,15 @@ Q3–2021: <br />
 
 - Preparing documentation (In Progress)
 - New website design (In progress)
-- Implementation of the Starname service with the ability to receive and send funds to *starnames (In progress)
+- Implementation of the Starname service with the ability to receive and send funds to *starnames (DONE)
 - Updating the website UI with the possibility to combine Telegram and Twitter accounts with Starname service (In progress)
 - Creating the Market of Usable NFTs by adding the functionality to sell&buy already registered *starnames into the p2p-exchange (In progress)
 - Implementation of Crypto Please Protocol (In progress)
-- Implementation of the liquidity pool to the p2p-exchange, that will allow users to earn with the liquidity providing (waiting for an answer to grant apply)
-- Updating the website UI for managing the liquidity pool (waiting for an answer to grant apply)
-- Adding the possibility to trade secret tokens sSCRT in a p2p-exchanger (waiting for an answer to grant apply)
-- Adding $BNB, $SOL, $MINA, $CYB, $JUNO, $XKI, $FET, $XPRT to the bot functionality (waiting for an answer to grant apply)
-- Adding Kava-chain tokens: $BNB, $BTCB, $BUSD, $XRPB to the bot functionality (looking for funds)
+- Implementation of the liquidity pool to the p2p-exchange, that will allow users to earn with the liquidity providing
+- Updating the website UI for managing the liquidity pool
+- Adding the possibility to trade secret tokens sSCRT in a p2p-exchanger 
+- Adding $BNB, $SOL, $MINA, $CYB, $JUNO, $XKI, $FET, $XPRT to the bot functionality 
+- Adding Kava-chain tokens: $BNB, $BTCB, $BUSD, $XRPB to the bot functionality
 - Updating the website UI for all new tokens
 - Creating Sputnik mobile app (In progress)
 
