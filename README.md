@@ -7,7 +7,7 @@ The easiest way to know more about the Sputnik Network is to [watch our presenta
 
 For now, The Sputnik Network is an ecosystem of services that are connected Web2 and Web3. <br />
 We alraedy have Sputnik Network Bot, that works in Twitter and Telegram. <br />
-Any user of Twitter can login with Twitter-account to https://sputnik.exchange and topup balance of $ATOM, $KAVA, $IOV, $SCRT, $HARD or $USDX <br />
+Any user of Twitter can login with Twitter-account to https://sputnik.exchange and topup balance of $AKT, $ATOM, $DVPN, $HARD, $IOV, $KAVA, $OSMO, $SCRT, $USDX, $XPRT <br />
 Users of Twitter with available balnce can send crypto-tips to any other Twitter-user, even if this user didn't create an account. <br />
 To send crypto-tip, all you need is make a comment, write anything you want, or write nothing, and add: <br />
 *@username amount crypto #sputnik*  <br />
