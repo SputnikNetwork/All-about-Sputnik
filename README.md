@@ -77,7 +77,7 @@ Q3–2021: <br />
 - Implementation of the liquidity pool to the p2p-exchange, that will allow users to earn with the liquidity providing
 - Updating the website UI for managing the liquidity pool
 - Adding the possibility to trade secret tokens sSCRT in a p2p-exchanger 
-- Adding $BNB, $SOL, $MINA, $CYB, $JUNO to the bot functionality 
+- Adding $BNB, $SOL, $MINA, $CYB, $JUNO, $FLIX to the bot functionality 
 - Adding Kava-chain tokens: $BNB, $BTCB, $BUSD, $XRPB to the bot functionality
 - Updating the website UI for all new tokens
 - Creating Sputnik mobile app (In progress)
@@ -88,7 +88,7 @@ Q4–2021: <br />
 - Create a blockchain-game with bets & NFTs
 - Integration with Cosmostation Wallet App for the convenience of mobile users
 - Implementation of Keplr Wallet, Sollet Wallet and Auro Wallet for fast and secure access to the blockchains
-- Adding $AKT, $LUNA, and other tokens of the Cosmos and Solana Ecosystems
+- Adding $LUNA, $UST, $TICK and other tokens of the Cosmos and Solana Ecosystems
 - Integration with BrightID service
 
 Q1-2022 <br />
