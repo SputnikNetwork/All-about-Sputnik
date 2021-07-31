@@ -7,7 +7,7 @@ The easiest way to know more about the Sputnik Network is to [watch our presenta
 
 For now, The Sputnik Network is an ecosystem of services that are connect Web2 with Web3. <br />
 We alraedy have Sputnik Network Bot, that works in Twitter and Telegram. <br />
-Any user of Twitter can login with Twitter-account to https://sputnik.exchange and topup balance of $AKT, $ATOM, $DVPN, $HARD, $IOV, $KAVA, $OSMO, $SCRT, $USDX, $XPRT, $ROWAN, $FET, $XKI, $CTK <br />
+Any user of Twitter can login with Twitter-account to https://sputnik.exchange and topup balance of $AKT, $ATOM, $DVPN, $HARD, $IOV, $KAVA, $OSMO, $SCRT, $USDX, $XPRT, $ROWAN, $FET, $XKI, $CTK, $LIKE <br />
 Users of Twitter with available balnce can send crypto-tips to any other Twitter-user, even if this user didn't create an account. <br />
 To send crypto-tip, all you need is make a comment, write anything you want, or write nothing, and add: <br />
 *@username amount crypto #sputnik*  <br />
@@ -69,13 +69,15 @@ Q3–2021: <br />
 - Preparing documentation (In Progress)
 - New website design (In progress)
 - Implementation of the Starname service with the ability to receive and send funds to *starnames (DONE)
-- Updating the website UI with the possibility to combine Telegram and Twitter accounts with Starname service (In progress)
+- Updating the website UI with the possibility to combine Telegram and Twitter accounts with Starname service (Done)
 - Creating the Market of Usable NFTs by adding the functionality to sell&buy already registered *starnames into the p2p-exchange (In progress)
 - Implementation of Crypto Please Protocol (In progress)
+- Adding $XPRT, $OSMO, $DVPN, $AKT to the bot functionality (Done)
+- Adding $ROWAN, $FET, $CTK, $XKI, $LIKE to the bot functionality (Done)
 - Implementation of the liquidity pool to the p2p-exchange, that will allow users to earn with the liquidity providing
 - Updating the website UI for managing the liquidity pool
 - Adding the possibility to trade secret tokens sSCRT in a p2p-exchanger 
-- Adding $BNB, $SOL, $MINA, $CYB, $JUNO, $XKI, $FET, $XPRT to the bot functionality 
+- Adding $BNB, $SOL, $MINA, $CYB, $JUNO to the bot functionality 
 - Adding Kava-chain tokens: $BNB, $BTCB, $BUSD, $XRPB to the bot functionality
 - Updating the website UI for all new tokens
 - Creating Sputnik mobile app (In progress)
