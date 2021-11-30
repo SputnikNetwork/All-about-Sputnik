@@ -1,4 +1,4 @@
-![photo_2021-07-09_09-19-59](https://user-images.githubusercontent.com/38581319/125039511-dd73c480-e096-11eb-8243-f955c4deca0c.jpg)
+![new-sputnik](https://user-images.githubusercontent.com/38581319/144070608-7a4fb25b-b201-4862-a4a4-53a752dce376.png)
 
 # All-about-Sputnik
 What is the Sputnik Network? <br />
